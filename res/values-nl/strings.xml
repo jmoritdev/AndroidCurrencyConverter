@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidCurrencyConverterV2</string>
+
+    <string name="AUD">Australische Dollar</string>
+    <string name="GBP">Britse Pond</string>
+    <string name="JPY">Japanse Yen</string>
+    <string name="USD">Amerikaanse Dollar</string>
+    <string name="EUR">Euro</string>
+
+    <string name="loadingmsg">Data word geladen...</string>
+</resources>
